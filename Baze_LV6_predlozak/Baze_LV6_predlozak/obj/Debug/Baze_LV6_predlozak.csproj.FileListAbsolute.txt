@@ -1,0 +1,19 @@
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV6_predlozak\Baze_LV6_predlozak\bin\Debug\Baze_LV6_predlozak.exe.config
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV6_predlozak\Baze_LV6_predlozak\bin\Debug\Baze_LV6_predlozak.exe
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV6_predlozak\Baze_LV6_predlozak\bin\Debug\Baze_LV6_predlozak.pdb
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.csprojResolveAssemblyReference.cache
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.Form1.resources
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.Properties.Resources.resources
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.csproj.GenerateResource.Cache
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.exe
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.pdb
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.Form1.resources
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.Properties.Resources.resources
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.exe
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\obj\Debug\Baze_LV6_predlozak.pdb
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\bin\Debug\Baze_LV6_predlozak.exe.config
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\bin\Debug\Baze_LV6_predlozak.exe
+C:\Users\student\Desktop\Baze_LV6_predlozak\Baze_LV6_predlozak\bin\Debug\Baze_LV6_predlozak.pdb
